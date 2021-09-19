@@ -12,5 +12,6 @@
         <TextBlock Text="Star View" Style="{StaticResource HeaderTextBlockStyle}" HorizontalAlignment="Center"  />
         <Button Content="I am a button" />
         <Button Content="I am an accent button" Style="{StaticResource AccentButtonStyle}"  />
+        <Image x:Name="picOfDay" HorizontalAlignment="Left" Height="0" VerticalAlignment="Top" Width="769.6"/>
     </ui:SimpleStackPanel>
 </Window>
